@@ -1,7 +1,7 @@
 
 # `sTrPPG Code` Documentation
 
-This is the code is used for rPPG signal extraction pipeline.  
+This code is used for rPPG signal extraction pipeline.  
 It integrates multiple modules including video stabilization, ROI selection, Filtering, signal extraction, and heatmap generation.
 
 ---
